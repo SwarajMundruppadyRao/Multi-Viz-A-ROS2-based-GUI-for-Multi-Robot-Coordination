@@ -94,3 +94,12 @@ This project aims to develop a Graphical User Interface (GUI) using Qt that inte
 - **Qt**: For building the cross-platform GUI.
 - **ROS2**: For handling communication between the simulation and the GUI.
 - **Gazebo**: For simulating TurtleBot 3 robots and generating data for visualization.
+
+## Collaborators
+
+- **Aryan Mishra**  
+- **Gautam Sreenarayanan Nair** - [GitHub Profile](https://github.com/gautamsrn)  
+- **Sai Jagadeesh Muralikrishnan** - [GitHub Profile](https://github.com/cravotics)  
+- **Suhas Nagaraj** - [GitHub Profile](https://github.com/suhasnagaraj99)  
+- **Swaraj Mundruppady Rao** - [GitHub Profile](https://github.com/SwarajMundruppadyRao)  
+
